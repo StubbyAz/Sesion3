@@ -43,3 +43,9 @@
     background-color: #025157;
     color: white;
 }
+
+.Reto4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
